@@ -8,3 +8,5 @@
 ## ТЕМА 5 Бази даних
 ## ТЕМА 6 Django/Django Rest Framevork
 ## ТЕМА 7 Linux/Docker/Git
+
+## Додаткові матеріали
