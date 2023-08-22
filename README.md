@@ -1,4 +1,4 @@
-#№ python-cource-08-23
+## python-cource-08-23
 
 # ТЕМА 1 Основи мови програмування Python
 
