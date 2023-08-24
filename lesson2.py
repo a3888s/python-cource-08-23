@@ -55,6 +55,40 @@
 # text2 = "i am {}. I am {} years old".format(name, age)
 # print(text2)
 
+# Зріз строк
+# Строки мають індекс. Позитивні та від'ємні
+# product = "Apple"
+# print(product[0])
+# print(product[-1])
+# print(product[4])
+
+# Pineapple
+# product = "Pineapple"
+# print(product[0]+product[3]+product[2])
+# print(product[4:9])
+
+# Завдання 1
+# Отримати через input ім'я користувача та прізвище користувача.
+# Вивести на екран привітання з першою літерою прізвища та ім'я повністю.
+
+# last_name = input("Введіть Ваше імя: ")
+# first_name = input("Введіть Ваше прізвище: ")
+# full_name = f"Вітаю {first_name[0]}. {last_name}"
+# print(full_name)
+
+# Завдання 2
+# Існує змінна із хаотичними словами. Із допомогою зрізу скласти із них речення.
+text = "like I football play"
+print(text[5]+text[0:3]+text[7:14]+text[16:20])
+
+
+
+
+
+
+
+
+
 
 
 
